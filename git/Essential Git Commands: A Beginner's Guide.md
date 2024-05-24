@@ -1,6 +1,27 @@
 # Understanding Git Commands: `init`, `add`, `commit`, `status`, and `log`
 
-Git is a powerful version control system that helps developers manage changes to their codebase over time. In this document, we will explore and demonstrate the use of five essential Git commands: `init`, `add`, `commit`, `status`, and `log`.
+Git is a powerful version control system that helps developers manage changes to their codebase over time. In this document, we will explore and demonstrate the use of five essential Git commands: `init`, `add`, `commit`, `status`, and `log`. Additionally, we'll cover how to configure your global username and email for Git.
+
+## Configuring Global Username and Email
+
+Before starting with Git commands, it's important to set your global username and email. This information will be associated with your commits and is essential for collaboration.
+
+### Demo:
+
+1. Open your terminal or command prompt.
+2. Run the following commands to set your global username and email:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
+### Example:
+
+```bash
+$ git config --global user.name "John Doe"
+$ git config --global user.email "john.doe@example.com"
+```
 
 ## 1. `git init`
 
@@ -114,7 +135,7 @@ git log
 ```bash
 $ git log
 commit d1e8d16b784a5c5a5f65f5e5e0e0e5e5e5e5e5e5 (HEAD -> master)
-Author: Your Name <your.email@example.com>
+Author: John Doe <john.doe@example.com>
 Date:   Thu May 23 12:34:56 2024 +0000
 
     Initial commit with hello.txt
