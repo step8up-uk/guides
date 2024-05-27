@@ -90,8 +90,8 @@ To start using Discord, you need to download and install the application:
 
 - **Discord Documentation**: [Discord Docs](https://discord.com/developers/docs/intro)
 - **Video Tutorials**:
-  - [Discord Basics](https://www.youtube.com/watch?v=lbYRxig1Ioc)
-  - [Advanced Discord Tips](https://www.youtube.com/watch?v=wPrE6A0peN8)
+  - [Discord Basics](https://www.youtube.com/watch?v=nPmdafMo1b8)
+  - [Advanced Discord Tips](https://www.youtube.com/playlist?list=PLcFJ04qlAWJkyCTW7MC9SMW11GhJ2LF7E)
 - **Community Support**: [Discord Subreddit](https://www.reddit.com/r/discordapp/)
 
 For more detailed information, visit the [official Discord help center](https://support.discord.com/hc/en-us).
