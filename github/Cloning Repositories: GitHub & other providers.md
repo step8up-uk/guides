@@ -59,6 +59,3 @@ Cloning a repository means creating a local copy of a project stored on a remote
 - [GitHub Documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - [GitLab Documentation](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
-```
-
-This mini guide covers the basic steps for cloning repositories from GitHub and GitLab using both the command line and graphical interfaces.
