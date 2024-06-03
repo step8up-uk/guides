@@ -85,9 +85,3 @@ This guide provides instructions on installing Visual Studio Code, an overview o
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 - [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/vscode)
-
-By following these steps, you can install, explore, and customize Visual Studio Code to enhance your development experience. Happy coding!
-
----
-
-Filename: `Installing_and_Customizing_Visual_Studio_Code.md`
